@@ -46,3 +46,7 @@ Python · XGBoost · scikit-learn · imbalanced-learn · librosa · TensorFlow �
    present), which is not included in this repo.
 5. Run `hacktj.py` or `hack2tj.py` for the webcam features. The serial port, camera index and model paths are
    set at the top of each script for the machine they were written on, so update them for yours.
+
+## 👥 Team
+
+**Luv Udeshi**, **Saatvik Kesarwani**, **Anush Devkar**, and **Sanjeev Subramanian**.
